@@ -7,4 +7,4 @@ For the UNDARK school in Annecy, March 2026
 * pip install notebook
 * download LOFAR time series
 * download LOFAR info file
-* download python notebook 
+* download python notebook https://github.com/cherryng/teaching/blob/main/PulsarSearchTutorial-ForStudents.ipynb
